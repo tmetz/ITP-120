@@ -1,0 +1,20 @@
+/*
+ * Lab1Class
+ * 
+ * The purpose is this lab is to learn about the development tools.
+ * 
+ * Author: Tamara Metz
+ * Date: 8-25-18
+ * 
+ */
+
+package lab1Package;
+
+public class Lab1Class {
+
+	public static void main(String[] args) {
+		
+
+	} //end main
+
+} // end Lab1Class
