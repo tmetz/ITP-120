@@ -26,3 +26,5 @@ output
 hs_err_pid*
 /.metadata/
 /.recommenders/
+
+.recommenders/
