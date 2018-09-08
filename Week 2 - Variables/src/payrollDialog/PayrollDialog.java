@@ -8,7 +8,6 @@ public class PayrollDialog {
 		String name;
 		int hours;
 		double payRate;
-		double grossPay;
 		
 		name = JOptionPane.showInputDialog("Name: ");
 		String inputString = JOptionPane.showInputDialog("Hours worked: ");
