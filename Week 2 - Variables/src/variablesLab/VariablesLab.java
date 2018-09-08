@@ -71,6 +71,8 @@ public class VariablesLab {
 		myName = keyboard.next();
 		System.out.println("My name is " + myName);
 		*/
+		
+		keyboard.close();
 	}
 
 }
