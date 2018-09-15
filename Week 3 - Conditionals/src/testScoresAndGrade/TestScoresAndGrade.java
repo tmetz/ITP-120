@@ -47,7 +47,7 @@ public class TestScoresAndGrade {
 		else {
 			System.out.println("F");
 		}
-
+		input.close();
 	}
 
 }
