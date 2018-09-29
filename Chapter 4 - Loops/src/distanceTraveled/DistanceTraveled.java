@@ -30,10 +30,10 @@ public class DistanceTraveled {
 			time = input.nextInt();
 		}
 		
-		System.out.format("%-15s  Distance Traveled\n", "Hour");
-		System.out.format("----------------------------------\n");
+		System.out.printf("%-15s  Distance Traveled\n", "Hour");
+		System.out.println("----------------------------------");
 		for (int i = 1; i < time + 1; i++) {
-			System.out.format("%-15s  %.0f\n",i,speed*i); // The book example returns whole numbers for distance
+			System.out.printf("%-15s  %.0f\n",i,speed*i); // The book example returns whole numbers for distance
 		}
 		input.close();
 	}

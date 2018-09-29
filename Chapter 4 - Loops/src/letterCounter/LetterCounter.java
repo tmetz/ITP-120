@@ -34,7 +34,7 @@ public class LetterCounter {
 			}
 		}
 		
-		System.out.format("The character %s appears in the word %s %d times.",userChar, userString, charCount);
+		System.out.printf("The character %s appears in the word %s %d times.",userChar, userString, charCount);
 		input.close();
 	}
 
